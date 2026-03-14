@@ -1,4 +1,4 @@
-Aircraft Parts Revenue & Pricing Analytics (Advanced SQL Project)
+<h1> Aircraft Parts Revenue & Pricing Analytics (Advanced SQL Project) </h1>
 Project Overview
 
 This project analyzes aerospace aircraft parts sales data using advanced SQL techniques. The goal is to simulate the work of a pricing or revenue analyst in the aerospace industry by answering real business questions such as revenue trends, pricing performance, airline purchasing behavior, and product demand patterns.
