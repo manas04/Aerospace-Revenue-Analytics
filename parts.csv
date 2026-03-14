@@ -1,0 +1,51 @@
+part_id,part_name,part_category,manufacturer,base_price_usd,compatible_models
+ENG-001,Turbine Blade Set,Engine,Honeywell,21278,A330|B737|CRJ900
+ENG-002,Combustion Chamber,Engine,GE Aerospace,30280,A320|A330|A350|B737|B787|CRJ900
+ENG-003,Fuel Nozzle,Engine,Collins Aerospace,73392,A320|A321|ATR72|B737|B747|CRJ900
+ENG-004,Compressor Rotor,Engine,Thales,88284,ATR72|B737|B747|B787|CRJ900
+ENG-005,Exhaust Cone,Engine,Rolls-Royce,28458,A320|A321|ATR72|B777|B787
+ENG-006,Engine Sensor Kit,Engine,Honeywell,40431,A321|ATR72|B737|B787
+ENG-007,Bearing Assembly,Engine,GE Aerospace,59347,A320|A330|A350|ATR72|B747|B777
+ENG-008,Ignition Exciter,Engine,Safran,91579,A350|B747|B777|B787|E190
+AVI-001,Flight Management Computer,Avionics,GE Aerospace,18016,A320|A321|B737|B747|Cessna 172|E190
+AVI-002,Weather Radar Unit,Avionics,Rolls-Royce,15310,A320|B747|B777|Cessna 172|E190
+AVI-003,Navigation Display,Avionics,Safran,32504,A320|A321|B737|B747|B787|Cessna 172
+AVI-004,Transponder Module,Avionics,Safran,13161,A350|ATR72|B777|E190
+AVI-005,Cockpit Control Panel,Avionics,Collins Aerospace,42581,A320|A321|A330|Cessna 172
+AVI-006,Autopilot Computer,Avionics,Thales,37588,B737|B747|B787|CRJ900
+AVI-007,Data Recorder,Avionics,GE Aerospace,12417,A330|A350|B777|B787|Cessna 172|E190
+AVI-008,Communication Radio,Avionics,Thales,20478,A321|A330|ATR72|B737|B747|Cessna 172
+LDG-001,Main Landing Gear Strut,Landing Gear,Parker,24556,A320|A350|B747|B787
+LDG-002,Nose Gear Assembly,Landing Gear,Thales,15315,A330|A350|B777|CRJ900
+LDG-003,Brake Control Unit,Landing Gear,Safran,22789,A320|A330|A350|B747|B777|E190
+LDG-004,Wheel Hub,Landing Gear,Rolls-Royce,49957,A350|CRJ900|E190
+LDG-005,Shock Absorber,Landing Gear,Collins Aerospace,17250,A330|B747|B787|CRJ900
+LDG-006,Actuator Link,Landing Gear,GE Aerospace,55081,A320|A330|ATR72|B777|B787
+HYD-001,Hydraulic Pump,Hydraulics,Thales,3305,A320|A321|B777|E190
+HYD-002,Pressure Valve,Hydraulics,Honeywell,8169,A320|ATR72|E190
+HYD-003,Hydraulic Reservoir,Hydraulics,Honeywell,6507,A320|A321|B787|Cessna 172
+HYD-004,Actuation Cylinder,Hydraulics,Thales,23784,A320|A350|ATR72|B777|Cessna 172
+HYD-005,Filter Assembly,Hydraulics,Spirit AeroSystems,5465,A320|A330|B737|B777
+HYD-006,Seal Kit,Hydraulics,Parker,25349,ATR72|B777|B787|CRJ900|Cessna 172|E190
+ELE-001,Power Distribution Unit,Electrical,GE Aerospace,10131,A330|A350|B737
+ELE-002,Battery Charger,Electrical,Safran,9457,A320|A321|A330|B747
+ELE-003,Circuit Breaker Panel,Electrical,Rolls-Royce,19570,A320|B737|B747|B777|CRJ900
+ELE-004,Wiring Harness,Electrical,Spirit AeroSystems,16299,A320|A330|ATR72|B737
+ELE-005,Generator Control Unit,Electrical,Safran,12819,A320|Cessna 172|E190
+ELE-006,Transformer Rectifier,Electrical,Rolls-Royce,11688,A320|A330|ATR72|B777|CRJ900|E190
+CAB-001,Seat Control Module,Cabin Systems,GE Aerospace,12059,A321|A350|ATR72|B777|B787|E190
+CAB-002,Cabin Pressure Panel,Cabin Systems,Honeywell,4560,B737|B777|B787|Cessna 172|E190
+CAB-003,Oxygen System Valve,Cabin Systems,Safran,15080,A330|A350|ATR72|Cessna 172
+CAB-004,In-flight Entertainment Unit,Cabin Systems,Safran,15431,A350|ATR72|B737|B747|B787|E190
+CAB-005,Galley Power Module,Cabin Systems,Thales,15483,A320|A350|ATR72|Cessna 172
+CAB-006,Lighting Controller,Cabin Systems,Safran,9339,A320|B787|Cessna 172
+FUL-001,Fuel Pump,Fuel Systems,Rolls-Royce,10077,A330|B747|B787|Cessna 172
+FUL-002,Fuel Quantity Sensor,Fuel Systems,Spirit AeroSystems,16267,A330|A350|CRJ900
+FUL-003,Fuel Filter Housing,Fuel Systems,GE Aerospace,18498,A321|A330|A350|B737|Cessna 172
+FUL-004,Refuel Valve,Fuel Systems,Spirit AeroSystems,15411,A330|ATR72|B747
+FUL-005,Crossfeed Actuator,Fuel Systems,Collins Aerospace,9435,A320|A321|A330|ATR72|CRJ900
+FLT-001,Aileron Actuator,Flight Controls,Honeywell,25303,ATR72|B737|Cessna 172
+FLT-002,Elevator Servo,Flight Controls,Safran,25936,A350|B787|CRJ900
+FLT-003,Rudder Control Link,Flight Controls,Rolls-Royce,7542,A320|A330|CRJ900
+FLT-004,Trim Motor,Flight Controls,Spirit AeroSystems,31862,A321|B737|CRJ900
+FLT-005,Flap Drive Unit,Flight Controls,Spirit AeroSystems,30946,A321|A330|A350|B747|B777|B787

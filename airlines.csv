@@ -1,0 +1,21 @@
+airline,country,region,fleet_size
+Delta Air Lines,United States,North America,950
+American Airlines,United States,North America,980
+United Airlines,United States,North America,910
+Lufthansa,Germany,Europe,340
+Air France,France,Europe,290
+British Airways,United Kingdom,Europe,280
+Emirates,United Arab Emirates,Middle East,260
+Qatar Airways,Qatar,Middle East,220
+Singapore Airlines,Singapore,Asia-Pacific,190
+ANA,Japan,Asia-Pacific,240
+Qantas,Australia,Asia-Pacific,170
+LATAM Airlines,Chile,Latin America,310
+Aeromexico,Mexico,Latin America,120
+Ethiopian Airlines,Ethiopia,Africa,150
+South African Airways,South Africa,Africa,70
+Air India,India,Asia-Pacific,220
+IndiGo,India,Asia-Pacific,330
+Ryanair,Ireland,Europe,520
+easyJet,United Kingdom,Europe,330
+Turkish Airlines,Turkey,Europe,390
